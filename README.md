@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Inniyaasree+%F0%9F%91%8B;Full-Stack+Developer+%7C+React.js+%2B+Spring+Boot;Oracle+%26+AWS+Certified+Engineer;Building+AI-Powered+Web+Apps;Open+to+Opportunities+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Inniyaasree+%F0%9F%91%8B;Full-Stack+Developer;+Java+%2B+React.js+%2B+Spring+Boot;Oracle+%26+AWS+Certified+Engineer;Building+AI-Powered+Web+Apps;Open+to+Opportunities+%F0%9F%9A%80)
 
 </div>
 
